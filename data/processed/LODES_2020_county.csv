@@ -1,0 +1,82 @@
+w_county,h_county,commuters
+Alameda,Alameda,337128
+Alameda,Contra Costa,101777
+Alameda,Marin,7229
+Alameda,Napa,2467
+Alameda,San Francisco,31761
+Alameda,San Mateo,28364
+Alameda,Santa Clara,70491
+Alameda,Solano,17458
+Alameda,Sonoma,7868
+Contra Costa,Alameda,49670
+Contra Costa,Contra Costa,177350
+Contra Costa,Marin,4313
+Contra Costa,Napa,3363
+Contra Costa,San Francisco,9436
+Contra Costa,San Mateo,7430
+Contra Costa,Santa Clara,13765
+Contra Costa,Solano,24597
+Contra Costa,Sonoma,5237
+Marin,Alameda,6528
+Marin,Contra Costa,10467
+Marin,Marin,37954
+Marin,Napa,2053
+Marin,San Francisco,8099
+Marin,San Mateo,3345
+Marin,Santa Clara,2595
+Marin,Solano,5586
+Marin,Sonoma,13986
+Napa,Alameda,1584
+Napa,Contra Costa,2453
+Napa,Marin,965
+Napa,Napa,31895
+Napa,San Francisco,796
+Napa,San Mateo,568
+Napa,Santa Clara,1120
+Napa,Solano,12253
+Napa,Sonoma,6361
+San Francisco,Alameda,112672
+San Francisco,Contra Costa,65769
+San Francisco,Marin,27612
+San Francisco,Napa,2588
+San Francisco,San Francisco,261279
+San Francisco,San Mateo,83158
+San Francisco,Santa Clara,39565
+San Francisco,Solano,12111
+San Francisco,Sonoma,9614
+San Mateo,Alameda,58767
+San Mateo,Contra Costa,19569
+San Mateo,Marin,4474
+San Mateo,Napa,1105
+San Mateo,San Francisco,48731
+San Mateo,San Mateo,138998
+San Mateo,Santa Clara,63645
+San Mateo,Solano,5266
+San Mateo,Sonoma,3775
+Santa Clara,Alameda,111445
+Santa Clara,Contra Costa,32156
+Santa Clara,Marin,4026
+Santa Clara,Napa,1621
+Santa Clara,San Francisco,33264
+Santa Clara,San Mateo,65939
+Santa Clara,Santa Clara,622688
+Santa Clara,Solano,6904
+Santa Clara,Sonoma,5338
+Solano,Alameda,4957
+Solano,Contra Costa,11371
+Solano,Marin,1240
+Solano,Napa,4830
+Solano,San Francisco,1561
+Solano,San Mateo,1529
+Solano,Santa Clara,2834
+Solano,Solano,65332
+Solano,Sonoma,3497
+Sonoma,Alameda,4515
+Sonoma,Contra Costa,4924
+Sonoma,Marin,4977
+Sonoma,Napa,5682
+Sonoma,San Francisco,2227
+Sonoma,San Mateo,1788
+Sonoma,Santa Clara,2986
+Sonoma,Solano,5530
+Sonoma,Sonoma,129385

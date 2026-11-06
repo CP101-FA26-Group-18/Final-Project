@@ -1,0 +1,82 @@
+w_county,h_county,commuters
+Alameda,Alameda,365064
+Alameda,Contra Costa,108736
+Alameda,Marin,7497
+Alameda,Napa,2722
+Alameda,San Francisco,33845
+Alameda,San Mateo,29849
+Alameda,Santa Clara,73268
+Alameda,Solano,17262
+Alameda,Sonoma,8150
+Contra Costa,Alameda,54051
+Contra Costa,Contra Costa,187667
+Contra Costa,Marin,4601
+Contra Costa,Napa,3608
+Contra Costa,San Francisco,10014
+Contra Costa,San Mateo,7748
+Contra Costa,Santa Clara,14536
+Contra Costa,Solano,25240
+Contra Costa,Sonoma,5556
+Marin,Alameda,7426
+Marin,Contra Costa,10929
+Marin,Marin,42889
+Marin,Napa,2352
+Marin,San Francisco,9564
+Marin,San Mateo,3481
+Marin,Santa Clara,2821
+Marin,Solano,5318
+Marin,Sonoma,15096
+Napa,Alameda,1676
+Napa,Contra Costa,2615
+Napa,Marin,877
+Napa,Napa,35997
+Napa,San Francisco,875
+Napa,San Mateo,556
+Napa,Santa Clara,1041
+Napa,Solano,12881
+Napa,Sonoma,6430
+San Francisco,Alameda,108969
+San Francisco,Contra Costa,64383
+San Francisco,Marin,27581
+San Francisco,Napa,2581
+San Francisco,San Francisco,286965
+San Francisco,San Mateo,87607
+San Francisco,Santa Clara,36709
+San Francisco,Solano,12433
+San Francisco,Sonoma,10448
+San Mateo,Alameda,54312
+San Mateo,Contra Costa,18467
+San Mateo,Marin,4103
+San Mateo,Napa,1133
+San Mateo,San Francisco,51043
+San Mateo,San Mateo,146144
+San Mateo,Santa Clara,58747
+San Mateo,Solano,5361
+San Mateo,Sonoma,3969
+Santa Clara,Alameda,106496
+Santa Clara,Contra Costa,31040
+Santa Clara,Marin,3724
+Santa Clara,Napa,1633
+Santa Clara,San Francisco,35963
+Santa Clara,San Mateo,67789
+Santa Clara,Santa Clara,636545
+Santa Clara,Solano,6926
+Santa Clara,Sonoma,5504
+Solano,Alameda,5490
+Solano,Contra Costa,11689
+Solano,Marin,1265
+Solano,Napa,5332
+Solano,San Francisco,1866
+Solano,San Mateo,1715
+Solano,Santa Clara,3075
+Solano,Solano,68534
+Solano,Sonoma,3534
+Sonoma,Alameda,4631
+Sonoma,Contra Costa,4989
+Sonoma,Marin,5312
+Sonoma,Napa,5723
+Sonoma,San Francisco,2687
+Sonoma,San Mateo,2014
+Sonoma,Santa Clara,3280
+Sonoma,Solano,5554
+Sonoma,Sonoma,138315

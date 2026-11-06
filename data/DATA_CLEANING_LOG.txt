@@ -1,0 +1,236 @@
+COMPLETE DATA CLEANING LOG FROM main_analysis NOTEBOOK
+================================================================================
+DATA CLEANING LOG - LODES 2023
+
+LODES commute data
+Raw California OD pairs (LODES8 2023 JT00):  16241068 rows; 17634412 jobs
+Dropped non-bay area records:                13269133 rows
+Retained bay area block-level OD pairs:      2971935 rows; 3288681 jobs
+
+Spatial granularity grouping
+Block-to-tract grouping:   2971935 block pairs -> 767054 tract pairs
+Tract-to-city grouping:    767054 tract pairs -> 22336 city pairs
+Tract-to-county grouping:  767054 tract pairs -> 81 county pairs
+
+Spatial overlay for city grouping
+Total California census tracts:             9128 tracts
+9-County bay area tracts only:              1772 tracts
+Dropped non-bay area tracts:                7356 tracts
+Projected coordinate reference system:      EPSG:2227 (NAD83 / CA State Plane Zone 3, US Feet)
+Tract-to-city assignment method:            Largest-Share rule from Lab 9 using gpd.overlay(how='intersection')
+ -> Tracts assigned to official city/CDPs:     1767 tracts across 179 unique municipalities
+ -> Tracts assigned to unincorporated county:  5 tracts
+
+Check to make sure no commuters were accidentally dropped
+Total commuters at tract level:  3288681
+Total commuters at city level:   3288681
+Total commuters at county level: 3288681
+No commuters lost? True
+================================================================================
+DATA CLEANING LOG - LODES 2022
+
+LODES commute data
+Raw California OD pairs (LODES8 2023 JT00):  16084326 rows; 17430636 jobs
+Dropped non-bay area records:                13129662 rows
+Retained bay area block-level OD pairs:      2954664 rows; 3254147 jobs
+
+Spatial granularity grouping
+Block-to-tract grouping:   2954664 block pairs -> 765343 tract pairs
+Tract-to-city grouping:    765343 tract pairs -> 22246 city pairs
+Tract-to-county grouping:  765343 tract pairs -> 81 county pairs
+
+Spatial overlay for city grouping
+Total California census tracts:             9128 tracts
+9-County bay area tracts only:              1772 tracts
+Dropped non-bay area tracts:                7356 tracts
+Projected coordinate reference system:      EPSG:2227 (NAD83 / CA State Plane Zone 3, US Feet)
+Tract-to-city assignment method:            Largest-Share rule from Lab 9 using gpd.overlay(how='intersection')
+ -> Tracts assigned to official city/CDPs:     1767 tracts across 179 unique municipalities
+ -> Tracts assigned to unincorporated county:  5 tracts
+
+Check to make sure no commuters were accidentally dropped
+Total commuters at tract level:  3254147
+Total commuters at city level:   3254147
+Total commuters at county level: 3254147
+No commuters lost? True
+================================================================================
+DATA CLEANING LOG - LODES 2021
+
+LODES commute data
+Raw California OD pairs (LODES8 2023 JT00):  15041051 rows; 16281733 jobs
+Dropped non-bay area records:                12254419 rows
+Retained bay area block-level OD pairs:      2786632 rows; 3069753 jobs
+
+Spatial granularity grouping
+Block-to-tract grouping:   2786632 block pairs -> 736373 tract pairs
+Tract-to-city grouping:    736373 tract pairs -> 21922 city pairs
+Tract-to-county grouping:  736373 tract pairs -> 81 county pairs
+
+Spatial overlay for city grouping
+Total California census tracts:             9128 tracts
+9-County bay area tracts only:              1772 tracts
+Dropped non-bay area tracts:                7356 tracts
+Projected coordinate reference system:      EPSG:2227 (NAD83 / CA State Plane Zone 3, US Feet)
+Tract-to-city assignment method:            Largest-Share rule from Lab 9 using gpd.overlay(how='intersection')
+ -> Tracts assigned to official city/CDPs:     1767 tracts across 179 unique municipalities
+ -> Tracts assigned to unincorporated county:  5 tracts
+
+Check to make sure no commuters were accidentally dropped
+Total commuters at tract level:  3069753
+Total commuters at city level:   3069753
+Total commuters at county level: 3069753
+No commuters lost? True
+================================================================================
+DATA CLEANING LOG - LODES 2020
+
+LODES commute data
+Raw California OD pairs (LODES8 2023 JT00):  14962890 rows; 16240772 jobs
+Dropped non-bay area records:                12109589 rows
+Retained bay area block-level OD pairs:      2853301 rows; 3149556 jobs
+
+Spatial granularity grouping
+Block-to-tract grouping:   2853301 block pairs -> 730764 tract pairs
+Tract-to-city grouping:    730764 tract pairs -> 21795 city pairs
+Tract-to-county grouping:  730764 tract pairs -> 81 county pairs
+
+Spatial overlay for city grouping
+Total California census tracts:             9128 tracts
+9-County bay area tracts only:              1772 tracts
+Dropped non-bay area tracts:                7356 tracts
+Projected coordinate reference system:      EPSG:2227 (NAD83 / CA State Plane Zone 3, US Feet)
+Tract-to-city assignment method:            Largest-Share rule from Lab 9 using gpd.overlay(how='intersection')
+ -> Tracts assigned to official city/CDPs:     1767 tracts across 179 unique municipalities
+ -> Tracts assigned to unincorporated county:  5 tracts
+
+Check to make sure no commuters were accidentally dropped
+Total commuters at tract level:  3149556
+Total commuters at city level:   3149556
+Total commuters at county level: 3149556
+No commuters lost? True
+================================================================================
+DATA CLEANING LOG - LODES 2019
+
+LODES commute data
+Raw California OD pairs (LODES8 2023 JT00):  15815735 rows; 17178435 jobs
+Dropped non-bay area records:                12737641 rows
+Retained bay area block-level OD pairs:      3078094 rows; 3391463 jobs
+
+Spatial granularity grouping
+Block-to-tract grouping:   3078094 block pairs -> 770815 tract pairs
+Tract-to-city grouping:    770815 tract pairs -> 22084 city pairs
+Tract-to-county grouping:  770815 tract pairs -> 81 county pairs
+
+Spatial overlay for city grouping
+Total California census tracts:             9128 tracts
+9-County bay area tracts only:              1772 tracts
+Dropped non-bay area tracts:                7356 tracts
+Projected coordinate reference system:      EPSG:2227 (NAD83 / CA State Plane Zone 3, US Feet)
+Tract-to-city assignment method:            Largest-Share rule from Lab 9 using gpd.overlay(how='intersection')
+ -> Tracts assigned to official city/CDPs:     1767 tracts across 179 unique municipalities
+ -> Tracts assigned to unincorporated county:  5 tracts
+
+Check to make sure no commuters were accidentally dropped
+Total commuters at tract level:  3391463
+Total commuters at city level:   3391463
+Total commuters at county level: 3391463
+No commuters lost? True
+================================================================================
+DATA CLEANING LOG - LODES 2018
+
+LODES commute data
+Raw California OD pairs (LODES8 2023 JT00):  15681601 rows; 16978545 jobs
+Dropped non-bay area records:                12636939 rows
+Retained bay area block-level OD pairs:      3044662 rows; 3352012 jobs
+
+Spatial granularity grouping
+Block-to-tract grouping:   3044662 block pairs -> 768670 tract pairs
+Tract-to-city grouping:    768670 tract pairs -> 22246 city pairs
+Tract-to-county grouping:  768670 tract pairs -> 81 county pairs
+
+Spatial overlay for city grouping
+Total California census tracts:             9128 tracts
+9-County bay area tracts only:              1772 tracts
+Dropped non-bay area tracts:                7356 tracts
+Projected coordinate reference system:      EPSG:2227 (NAD83 / CA State Plane Zone 3, US Feet)
+Tract-to-city assignment method:            Largest-Share rule from Lab 9 using gpd.overlay(how='intersection')
+ -> Tracts assigned to official city/CDPs:     1767 tracts across 179 unique municipalities
+ -> Tracts assigned to unincorporated county:  5 tracts
+
+Check to make sure no commuters were accidentally dropped
+Total commuters at tract level:  3352012
+Total commuters at city level:   3352012
+Total commuters at county level: 3352012
+No commuters lost? True
+================================================================================
+DATA CLEANING LOG - LODES 2017
+
+LODES commute data
+Raw California OD pairs (LODES8 2023 JT00):  15385691 rows; 16646530 jobs
+Dropped non-bay area records:                12402081 rows
+Retained bay area block-level OD pairs:      2983610 rows; 3273818 jobs
+
+Spatial granularity grouping
+Block-to-tract grouping:   2983610 block pairs -> 760905 tract pairs
+Tract-to-city grouping:    760905 tract pairs -> 22197 city pairs
+Tract-to-county grouping:  760905 tract pairs -> 81 county pairs
+
+Spatial overlay for city grouping
+Total California census tracts:             9128 tracts
+9-County bay area tracts only:              1772 tracts
+Dropped non-bay area tracts:                7356 tracts
+Projected coordinate reference system:      EPSG:2227 (NAD83 / CA State Plane Zone 3, US Feet)
+Tract-to-city assignment method:            Largest-Share rule from Lab 9 using gpd.overlay(how='intersection')
+ -> Tracts assigned to official city/CDPs:     1767 tracts across 179 unique municipalities
+ -> Tracts assigned to unincorporated county:  5 tracts
+
+Check to make sure no commuters were accidentally dropped
+Total commuters at tract level:  3273818
+Total commuters at city level:   3273818
+Total commuters at county level: 3273818
+No commuters lost? True
+================================================================================
+DATA CLEANING LOG - ACS WORK-FROM-HOME (2017--2023 1-YR SAMPLES, EXCLUDING 2020)
+
+Raw files from table B08301
+Raw census file dimensions per year:
+ - 2017: 10 rows, 45 columns
+ - 2018: 10 rows, 45 columns
+ - 2019: 10 rows, 45 columns
+ - 2021: 9 rows, 45 columns
+ - 2022: 9 rows, 45 columns
+ - 2023: 10 rows, 45 columns
+
+Cleaning & standardization (also per year)
+Metadata Stripping:           Removed Row 1 ('Geography' text header)
+Column Pruning:               Dropped all 'M$' margin of error columns (number of cols = 21)
+Geographic Key Alignment:     Sliced GEO_ID to 5-digit county FIPS (06001 - 06097)
+County Name Mapping:          Mapped 9 Bay Area FIPS codes to county string names
+Indicator Formulation:        WFH Proportion = B08301_021E / B08301_001E
+
+Handling missing values for Napa county
+Napa County (FIPS = 06055) NaNs:    2 years: 2021 and 2022 (determined by inspection)
+Solution:    Preserved as NaN (omitted by Census due to small sample sizes for those years)
+
+Dimensions of cleaned dataframe
+Number of rows (counties):     9
+Number of columns:             8
+Column labels:                 Index(['FIPS', 'county', 'WFH prop 2017', 'WFH prop 2018', 'WFH prop 2019',
+       'WFH prop 2021', 'WFH prop 2022', 'WFH prop 2023'],
+      dtype='object')
+Destination Path:              ../../data/processed/ACS_WFH.csv
+================================================================================
+ACS DRAFT (TO BE COMPLETELY REWRITTEN)
+
+The American Community Survey (ACS) county-level work-from-home (WFH) dataset was constructed from Table B08301 (Means of Transportation to Work for Workers 16 Years and Over) across the nine Bay Area counties for 2017–2019 and 2021–2023. The 2020 cycle was excluded because the Census Bureau suspended standard 1-year ACS data releases due to pandemic-related collection disruptions. To clean the raw Census tables, descriptive metadata header rows were removed by filtering out entries where `GEO_ID` equaled `'Geography'`, all margin-of-error columns ending in `'M'` were dropped via regex filtering, and 14-digit Census geographic identifiers were sliced to their terminal five characters to extract standard five-digit county FIPS codes (`06001` through `06097`). These FIPS codes were then mapped to their respective county names using a standardized dictionary.
+
+Countywide WFH proportions were computed by dividing worked-from-home counts (`B08301_021E`) by the total worker universe (`B08301_001E`). Because Napa County (`06055`) fell below Census publication thresholds for single-year ACS products in 2021 and 2022, missing entries were preserved as `NaN` rather than imputed to avoid introducing artificial distortion into the longitudinal panel. The resulting multi-year panel was exported to `data/processed/ACS_WFH.csv`. The cleaned data reflects pre-pandemic WFH proportions ranging from 4.04% in Napa to 15.44% in Marin between 2017 and 2019, peaking in 2021 between 12.76% in Solano and 45.58% in San Francisco, and stabilizing by 2023 at an elevated hybrid baseline between 11.12% in Solano and 26.27% in Marin.
+
+Verification checklist and immediate next steps:
+
+1. In `ACS_WFH.ipynb` cell 12, update the unassigned column label `acs_wfh['']` to `acs_wfh['county']` and re-run cell 15 to export `ACS_WFH.csv` with standard column headers.
+
+2. In `01_data_cleaning_pipeline.ipynb`, load `data/processed/ACS_WFH.csv` via relative path and execute a merge onto `LODES_2023_county` using `FIPS` matching `w_county`.
+
+3. Confirm all nine Bay Area county FIPS match across the merged LODES and ACS dataframes without record loss.
+
+4. Insert the exact filtering log and Napa County `NaN` threshold justification into Section 2 of the midterm report draft.

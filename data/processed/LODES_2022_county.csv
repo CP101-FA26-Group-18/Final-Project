@@ -1,0 +1,82 @@
+w_county,h_county,commuters
+Alameda,Alameda,351688
+Alameda,Contra Costa,109414
+Alameda,Marin,7926
+Alameda,Napa,2923
+Alameda,San Francisco,36402
+Alameda,San Mateo,30940
+Alameda,Santa Clara,77542
+Alameda,Solano,19242
+Alameda,Sonoma,8398
+Contra Costa,Alameda,49602
+Contra Costa,Contra Costa,184547
+Contra Costa,Marin,4393
+Contra Costa,Napa,3595
+Contra Costa,San Francisco,9868
+Contra Costa,San Mateo,7579
+Contra Costa,Santa Clara,14829
+Contra Costa,Solano,25327
+Contra Costa,Sonoma,5517
+Marin,Alameda,6955
+Marin,Contra Costa,10977
+Marin,Marin,39468
+Marin,Napa,2086
+Marin,San Francisco,8430
+Marin,San Mateo,3310
+Marin,Santa Clara,2857
+Marin,Solano,5354
+Marin,Sonoma,14681
+Napa,Alameda,1568
+Napa,Contra Costa,2724
+Napa,Marin,1027
+Napa,Napa,33594
+Napa,San Francisco,798
+Napa,San Mateo,631
+Napa,Santa Clara,1013
+Napa,Solano,13878
+Napa,Sonoma,6737
+San Francisco,Alameda,111704
+San Francisco,Contra Costa,66710
+San Francisco,Marin,26901
+San Francisco,Napa,2843
+San Francisco,San Francisco,253229
+San Francisco,San Mateo,81540
+San Francisco,Santa Clara,48718
+San Francisco,Solano,12333
+San Francisco,Sonoma,10646
+San Mateo,Alameda,60692
+San Mateo,Contra Costa,21821
+San Mateo,Marin,4700
+San Mateo,Napa,1208
+San Mateo,San Francisco,50748
+San Mateo,San Mateo,139223
+San Mateo,Santa Clara,65826
+San Mateo,Solano,5590
+San Mateo,Sonoma,4193
+Santa Clara,Alameda,119800
+Santa Clara,Contra Costa,36416
+Santa Clara,Marin,4489
+Santa Clara,Napa,1757
+Santa Clara,San Francisco,35692
+Santa Clara,San Mateo,67190
+Santa Clara,Santa Clara,633099
+Santa Clara,Solano,7682
+Santa Clara,Sonoma,5999
+Solano,Alameda,5175
+Solano,Contra Costa,11556
+Solano,Marin,1287
+Solano,Napa,5068
+Solano,San Francisco,1425
+Solano,San Mateo,1714
+Solano,Santa Clara,2973
+Solano,Solano,66717
+Solano,Sonoma,3434
+Sonoma,Alameda,4650
+Sonoma,Contra Costa,5068
+Sonoma,Marin,5689
+Sonoma,Napa,5848
+Sonoma,San Francisco,2621
+Sonoma,San Mateo,1986
+Sonoma,Santa Clara,3514
+Sonoma,Solano,5596
+Sonoma,Sonoma,133257

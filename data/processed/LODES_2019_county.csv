@@ -1,0 +1,82 @@
+w_county,h_county,commuters
+Alameda,Alameda,370329
+Alameda,Contra Costa,108541
+Alameda,Marin,7459
+Alameda,Napa,2746
+Alameda,San Francisco,34329
+Alameda,San Mateo,30034
+Alameda,Santa Clara,74216
+Alameda,Solano,17861
+Alameda,Sonoma,8292
+Contra Costa,Alameda,54608
+Contra Costa,Contra Costa,193433
+Contra Costa,Marin,4449
+Contra Costa,Napa,3617
+Contra Costa,San Francisco,10016
+Contra Costa,San Mateo,8040
+Contra Costa,Santa Clara,15550
+Contra Costa,Solano,26009
+Contra Costa,Sonoma,5516
+Marin,Alameda,7359
+Marin,Contra Costa,11318
+Marin,Marin,42730
+Marin,Napa,2344
+Marin,San Francisco,8988
+Marin,San Mateo,3647
+Marin,Santa Clara,3013
+Marin,Solano,5462
+Marin,Sonoma,15015
+Napa,Alameda,1736
+Napa,Contra Costa,2690
+Napa,Marin,1042
+Napa,Napa,36072
+Napa,San Francisco,917
+Napa,San Mateo,663
+Napa,Santa Clara,1098
+Napa,Solano,13539
+Napa,Sonoma,6780
+San Francisco,Alameda,118978
+San Francisco,Contra Costa,68705
+San Francisco,Marin,27993
+San Francisco,Napa,2725
+San Francisco,San Francisco,301138
+San Francisco,San Mateo,90080
+San Francisco,Santa Clara,39418
+San Francisco,Solano,12793
+San Francisco,Sonoma,9926
+San Mateo,Alameda,59792
+San Mateo,Contra Costa,19951
+San Mateo,Marin,4357
+San Mateo,Napa,1108
+San Mateo,San Francisco,53857
+San Mateo,San Mateo,152433
+San Mateo,Santa Clara,64409
+San Mateo,Solano,5812
+San Mateo,Sonoma,3891
+Santa Clara,Alameda,113934
+Santa Clara,Contra Costa,32804
+Santa Clara,Marin,3936
+Santa Clara,Napa,1727
+Santa Clara,San Francisco,35755
+Santa Clara,San Mateo,69707
+Santa Clara,Santa Clara,665996
+Santa Clara,Solano,7239
+Santa Clara,Sonoma,5414
+Solano,Alameda,5388
+Solano,Contra Costa,11823
+Solano,Marin,1308
+Solano,Napa,5444
+Solano,San Francisco,1792
+Solano,San Mateo,1588
+Solano,Santa Clara,3113
+Solano,Solano,69759
+Solano,Sonoma,3515
+Sonoma,Alameda,4604
+Sonoma,Contra Costa,5230
+Sonoma,Marin,5590
+Sonoma,Napa,6154
+Sonoma,San Francisco,2683
+Sonoma,San Mateo,2039
+Sonoma,Santa Clara,3212
+Sonoma,Solano,5762
+Sonoma,Sonoma,139123

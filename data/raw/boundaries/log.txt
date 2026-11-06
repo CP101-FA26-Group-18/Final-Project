@@ -1,0 +1,4 @@
+Files accessed 11/03/2026 7:25 PM from https://www.census.gov/cgi-bin/geo/shapefiles/index.php
+tl_2023_06_place # city boundaries in CA
+tl_2023_us_counties # county boundaries in US
+tl_2023_06_tract # census tract boundaries in CA

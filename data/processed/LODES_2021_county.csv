@@ -1,0 +1,82 @@
+w_county,h_county,commuters
+Alameda,Alameda,329818
+Alameda,Contra Costa,103482
+Alameda,Marin,7576
+Alameda,Napa,2758
+Alameda,San Francisco,33593
+Alameda,San Mateo,29653
+Alameda,Santa Clara,73484
+Alameda,Solano,17837
+Alameda,Sonoma,8191
+Contra Costa,Alameda,48214
+Contra Costa,Contra Costa,174261
+Contra Costa,Marin,4500
+Contra Costa,Napa,3633
+Contra Costa,San Francisco,9327
+Contra Costa,San Mateo,7589
+Contra Costa,Santa Clara,13828
+Contra Costa,Solano,24394
+Contra Costa,Sonoma,5308
+Marin,Alameda,6459
+Marin,Contra Costa,10512
+Marin,Marin,37454
+Marin,Napa,2126
+Marin,San Francisco,7884
+Marin,San Mateo,3364
+Marin,Santa Clara,2637
+Marin,Solano,5283
+Marin,Sonoma,14195
+Napa,Alameda,1436
+Napa,Contra Costa,2479
+Napa,Marin,909
+Napa,Napa,30800
+Napa,San Francisco,762
+Napa,San Mateo,506
+Napa,Santa Clara,1068
+Napa,Solano,12426
+Napa,Sonoma,6317
+San Francisco,Alameda,105771
+San Francisco,Contra Costa,62881
+San Francisco,Marin,26555
+San Francisco,Napa,2636
+San Francisco,San Francisco,232244
+San Francisco,San Mateo,77042
+San Francisco,Santa Clara,40035
+San Francisco,Solano,11659
+San Francisco,Sonoma,10054
+San Mateo,Alameda,58023
+San Mateo,Contra Costa,20415
+San Mateo,Marin,4688
+San Mateo,Napa,1102
+San Mateo,San Francisco,47390
+San Mateo,San Mateo,132482
+San Mateo,Santa Clara,64217
+San Mateo,Solano,5225
+San Mateo,Sonoma,3862
+Santa Clara,Alameda,113199
+Santa Clara,Contra Costa,33135
+Santa Clara,Marin,4142
+Santa Clara,Napa,1683
+Santa Clara,San Francisco,32679
+Santa Clara,San Mateo,64071
+Santa Clara,Santa Clara,604856
+Santa Clara,Solano,7248
+Santa Clara,Sonoma,5566
+Solano,Alameda,5053
+Solano,Contra Costa,11205
+Solano,Marin,1229
+Solano,Napa,5102
+Solano,San Francisco,1597
+Solano,San Mateo,1544
+Solano,Santa Clara,2875
+Solano,Solano,63398
+Solano,Sonoma,3566
+Sonoma,Alameda,4417
+Sonoma,Contra Costa,4818
+Sonoma,Marin,5049
+Sonoma,Napa,5763
+Sonoma,San Francisco,2375
+Sonoma,San Mateo,1739
+Sonoma,Santa Clara,2965
+Sonoma,Solano,5215
+Sonoma,Sonoma,124920
